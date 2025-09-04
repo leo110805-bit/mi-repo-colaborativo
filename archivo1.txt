@@ -2,4 +2,8 @@ Cambio realizado en local
 Cambio relizado en GitHub (rama main)
 borjaaaaaaaaa
 #He modificado este txt en github
+<<<<<<< HEAD
 Línea añadida en local en la tarea.
+=======
+Línea añadida desde GitHub en la tarea.
+>>>>>>> ef71b1c1eb0c5cd51f6c896bbe2bf5b13b024281
